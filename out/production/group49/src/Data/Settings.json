@@ -1,0 +1,15 @@
+{
+  "audio": {
+    "SoundEffectVolume": 48,
+    "MusicVolume": 0
+  },
+  "keybinds": {
+    "Feed": "F",
+    "Sleep": "S",
+    "Gift": "G",
+    "Vet": "V",
+    "Play": "P",
+    "Inventory": "I"
+  },
+  "password": "1"
+}

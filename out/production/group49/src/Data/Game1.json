@@ -1,0 +1,36 @@
+{
+  "Saved": "2025-01-01 00:00",
+  "Playtime": "0h 0m",
+  "Name": "Da Young Seo",
+  "Species": "Hawk",
+  "State": "happy",
+  "Health": 85,
+  "Happiness": 0,
+  "Sleep": 78,
+  "Fullness": 58,
+  "Score": 70,
+  "ScreenTimeLimit": "00:00",
+  "TotalPlaytime": "00:00",
+  "LastPlaytime": "00:00",
+  "AveragePlaytime": "00:00",
+  "livingState": 1,
+  "food": {
+    "Milk Tea": 0,
+    "Apple": 0,
+    "Water": 0,
+    "Cookie": 0,
+    "Cake": 0,
+    "Meat": 0,
+    "Croissant": 0,
+    "Blueberries": 0,
+    "Broccoli": 0,
+    "Chocolate": 0
+  },
+  "item": {
+    "Bone": 0,
+    "Toy": 12,
+    "Paint": 3,
+    "Ball": 3,
+    "Music": 0
+  }
+}
